@@ -1,6 +1,6 @@
 # InfluenceHub - Complete Setup Guide
 
-## 📋 Table of Contents
+##  Table of Contents
 1. [Prerequisites](#prerequisites)
 2. [Frontend Setup](#frontend-setup)
 3. [Backend Setup](#backend-setup)
